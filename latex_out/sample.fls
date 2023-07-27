@@ -187,6 +187,9 @@ INPUT ./fig/koukaton.jpg
 INPUT ./fig/koukaton.jpg
 INPUT ./fig/koukaton.jpg
 INPUT extractbb -B cropbox -O fig/koukaton.jpg
+INPUT ./fig/koukaton.jpg
+INPUT ./fig/koukaton.jpg
+INPUT ./fig/koukaton.jpg
 INPUT latex_out/sample.bbl
 INPUT latex_out/sample.bbl
 INPUT latex_out/sample.bbl

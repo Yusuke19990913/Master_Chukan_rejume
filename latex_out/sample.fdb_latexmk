@@ -1,19 +1,19 @@
 # Fdb version 4
-["bibtex latex_out/sample"] 1690447219 "latex_out/sample.aux" "latex_out/sample.bbl" "latex_out/sample" 1690447501 0
+["bibtex latex_out/sample"] 1690451852 "latex_out/sample.aux" "latex_out/sample.bbl" "latex_out/sample" 1690451853 0
   "./ref.bib" 1690446921 1458 cfc174a46153e7e8b3803d6019de187f ""
   "junsrt.bst" 0 -1 0 ""
-  "latex_out/sample.aux" 1690447500 2076 2e5760f5f8de7ca9f26ae88ba0864d83 "latex"
+  "latex_out/sample.aux" 1690451853 2392 6c52b2fc028df78f6cf8712dc62f70c7 "latex"
   (generated)
   "latex_out/sample.bbl"
   "latex_out/sample.blg"
   (rewritten before read)
-["dvipdf"] 1690447500 "latex_out/sample.dvi" "latex_out/sample.pdf" "latex_out/sample" 1690447501 0
-  "latex_out/sample.dvi" 1690447500 13840 f972676407e9b95dc305671ab77f0ab8 "latex"
+["dvipdf"] 1690451853 "latex_out/sample.dvi" "latex_out/sample.pdf" "latex_out/sample" 1690451853 0
+  "latex_out/sample.dvi" 1690451853 14768 862f6f553ade509bc39fc40c83c76ae4 "latex"
   (generated)
   "latex_out/sample.pdf"
   (rewritten before read)
-["latex"] 1690447499 "/Users/inouelab/Desktop/resume-utf8-mac/sample.tex" "latex_out/sample.dvi" "sample" 1690447501 0
-  "/Users/inouelab/Desktop/resume-utf8-mac/sample.tex" 1690447499 7490 9e447a569440f2fed3841351b96b2bae ""
+["latex"] 1690451852 "/Users/inouelab/Desktop/resume-utf8-mac/sample.tex" "latex_out/sample.dvi" "sample" 1690451853 0
+  "/Users/inouelab/Desktop/resume-utf8-mac/sample.tex" 1690451851 8018 e56dc1c1e3e6249089d51d49a30529ba ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/ptex-fonts/jis/jis.tfm" 1463434352 468 53f854284f6afa6c36aaa2d1090ecc12 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/ptex-fonts/jis/jisg.tfm" 1463434352 468 53f854284f6afa6c36aaa2d1090ecc12 ""
@@ -93,11 +93,11 @@
   "fig/gaiyo.pdf" 1690439938 103799 60c220f308b192e17a2868f2010a6d01 ""
   "fig/koukaton.jpg" 1686566412 648987 0f00e1dca4f25bd0c9167d53ba8ae09a ""
   "fig/texture.001.jpeg" 1690444680 1422930 91f233e80e346cf06307a330edc4c374 ""
-  "latex_out/sample.aux" 1690447500 2076 2e5760f5f8de7ca9f26ae88ba0864d83 "latex"
-  "latex_out/sample.bbl" 1690447219 538 ed94f0b3239b8b1bc77831b7f1f47215 "bibtex latex_out/sample"
-  "latex_out/sample.out" 1690447500 679 4169fb9e82df42bb49e78019f549d7b4 "latex"
+  "latex_out/sample.aux" 1690451853 2392 6c52b2fc028df78f6cf8712dc62f70c7 "latex"
+  "latex_out/sample.bbl" 1690451852 538 ed94f0b3239b8b1bc77831b7f1f47215 "bibtex latex_out/sample"
+  "latex_out/sample.out" 1690451853 784 3ee505d6373efbddbdb8ef02af83d9a2 "latex"
   "resume.sty" 1686647145 3172 6f4b080b9fad56e4c378bf5571dc7015 ""
-  "sample.tex" 1690447499 7490 9e447a569440f2fed3841351b96b2bae ""
+  "sample.tex" 1690451851 8018 e56dc1c1e3e6249089d51d49a30529ba ""
   "udline.sty" 1686561083 26035 8f19a931efcf8cc0870491ace38d48fb ""
   (generated)
   "latex_out/sample.aux"
