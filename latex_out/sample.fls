@@ -187,10 +187,10 @@ INPUT ./fig/proto.jpeg
 INPUT ./fig/proto.jpeg
 INPUT ./fig/proto.jpeg
 INPUT extractbb -B cropbox -O fig/proto.jpeg
-INPUT ./fig/koukaton.jpg
-INPUT ./fig/koukaton.jpg
-INPUT ./fig/koukaton.jpg
-INPUT extractbb -B cropbox -O fig/koukaton.jpg
+INPUT ./fig/enviroment.jpeg
+INPUT ./fig/enviroment.jpeg
+INPUT ./fig/enviroment.jpeg
+INPUT extractbb -B cropbox -O fig/enviroment.jpeg
 INPUT latex_out/sample.bbl
 INPUT latex_out/sample.bbl
 INPUT latex_out/sample.bbl
