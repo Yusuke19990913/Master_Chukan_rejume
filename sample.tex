@@ -36,7 +36,7 @@
 
 通路や道路に床テクスチャを提示する際，実際に床の上にテクスチャを設置することは設置や撤収が大変である．
 また，大勢の人が様々な方向に向かって歩く商店街などの大通りではプロジェクターによる正しい歩行誘導をできる形の床テクスチャ提示は困難である．
-そこでARを用いることで道を問わずに個人に正しい歩行誘導をできる形の床テクスチャ提示することができる．
+そこでARを用いることで，個人個人に道を問わず歩行誘導をできる形の床テクスチャ提示ができる．
 
 
 ARを用いた歩行者誘導についての研究で塚本らの拡張現実感を用いたテクスチャ変更による人物行動制御手法が存在する．
@@ -56,7 +56,7 @@ ARを用いた歩行者誘導についての研究で塚本らの拡張現実感
 図\ref{fig:gaiyo}に本システムの概要を示す．
 本システムでは被験者にARグラスを装着してもらう.
 これにより，現実の床を模したバーチャル床ををユーザの視界にアニメーション表示する.
-\begin{figure}[htbp]
+\begin{figure}[t]
     \centering
     \fbox{
     \includegraphics[width=1.1\linewidth]{fig/gaiyo.pdf}
@@ -69,20 +69,22 @@ ARを用いた歩行者誘導についての研究で塚本らの拡張現実感
 \begin{figure}[htbp]
     \centering
     \fbox{
-    \includegraphics[width=1\linewidth]{fig/texture.001.jpeg}
+    \includegraphics[width=1\linewidth]{fig/texture.jpeg}
     }
     \caption{バーチャル床のテクスチャ}
     \label{fig:texture}
 \end{figure}
 図\ref{fig:texture}の左にに今回作成したリアルテクスチャを示す．
-また、右のテクスチャは評価実験の際にリアルテクスチャの比較対象として使うNonリアルテクスチャを示す．
+また、評価実験の際にリアルテクスチャの比較対象としてNonリアルテクスチャを使う予定だが未定である．
 今回提示したリアルテクスチャは人工芝の道を歩くことを想定し作成した．
 本システムでは，これらのテクスチャをバーチャル床にアタッチし被験者の視界の床にアニメーション重畳表示を行う．
 
 \subsection{プロトタイプ}
-\begin{figure}[htbp]
+\begin{figure}[t]
     \centering
-    \includegraphics[width=0.7\linewidth]{fig/koukaton.jpg}
+    \fbox{
+    \includegraphics[width=1\linewidth]{fig/proto.jpeg}
+    }
     \caption{プロトタイプ}
     \label{fig:puroto}
 \end{figure}
@@ -91,21 +93,22 @@ ARを用いた歩行者誘導についての研究で塚本らの拡張現実感
 バーチャル床はユーザの約20m前からこちらに向かうように動いてくる．
 %------------------------------------------------------------------
 \section{実験方法}
-\begin{figure}[htbp]
-    \centering
-    \includegraphics[width=0.7\linewidth]{fig/koukaton.jpg}
-    \caption{被験者}
-    \label{fig:kokaton}
-\end{figure}
 
 本稿では芝生道にて，芝生を模したバーチャル床を表示した場合，芝生を模していないバーチャル床を表示した場合を比べてユーザの歩行速度制御に優位性が出るか否かの調査を行う．
-被験者には図\ref{fig:kokaton}のように頭にはARグラスのHololens2を，体にはスマートフォンを揺れないように固定して装着してもらう．
+実験環境を図\ref{fig:kokaton}に示す．被験者は頭にはARグラスのHololens2を，体にはスマートフォンを揺れないように固定して装着してもらう．
 実験手順を以下に示す．
 \begin{enumerate}
     \item システムを使用していない状態のHololens2をつけてもらい，指定した道を指定距離歩いてもらう.
     \item 本システム(リアルテクスチャ or 模様なし)を使用して歩いてもらう
     \item 手順2とは違うバージョンを使用して歩いてもらう
 \end{enumerate}
+
+\begin{figure}[t]
+    \centering
+    \includegraphics[width=0.7\linewidth]{fig/koukaton.jpg}
+    \caption{実験環境}
+    \label{fig:kokaton}
+\end{figure}
 
  \subsection{評価方法}
  感性評価では、歩行後に歩いている速度が速く感じるか，遅く感じるかといった感覚を速度感とし
@@ -120,7 +123,7 @@ ARを用いた歩行者誘導についての研究で塚本らの拡張現実感
  %------------------------------------------------------------------
 \section{まとめ}
 本研究では，地表面近似テクスチャーのアニメーション重畳表示よる歩行速度制御システムを提案した．
-今後の課題として，本システムを用いた実験を行う．
+今後の課題として，Nonリアルテクスチャの選定，本システムを用いた実験が挙げられる．
 また，実験結果からバーチャル床のテクスチャや挙動の改善を行う.
 %------------------------------------------------------------------
 \bibliographystyle{junsrt}

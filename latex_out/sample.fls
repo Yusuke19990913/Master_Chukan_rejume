@@ -178,18 +178,19 @@ INPUT ./fig/gaiyo.pdf
 INPUT ./fig/gaiyo.pdf
 INPUT ./fig/gaiyo.pdf
 INPUT extractbb -B cropbox -O fig/gaiyo.pdf
-INPUT ./fig/texture.001.jpeg
-INPUT ./fig/texture.001.jpeg
-INPUT ./fig/texture.001.jpeg
-INPUT extractbb -B cropbox -O fig/texture.001.jpeg
+INPUT ./fig/texture.jpeg
+INPUT ./fig/texture.jpeg
+INPUT ./fig/texture.jpeg
+INPUT extractbb -B cropbox -O fig/texture.jpeg
 OUTPUT latex_out/sample.dvi
+INPUT ./fig/proto.jpeg
+INPUT ./fig/proto.jpeg
+INPUT ./fig/proto.jpeg
+INPUT extractbb -B cropbox -O fig/proto.jpeg
 INPUT ./fig/koukaton.jpg
 INPUT ./fig/koukaton.jpg
 INPUT ./fig/koukaton.jpg
 INPUT extractbb -B cropbox -O fig/koukaton.jpg
-INPUT ./fig/koukaton.jpg
-INPUT ./fig/koukaton.jpg
-INPUT ./fig/koukaton.jpg
 INPUT latex_out/sample.bbl
 INPUT latex_out/sample.bbl
 INPUT latex_out/sample.bbl

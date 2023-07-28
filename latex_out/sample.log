@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.141592653-p4.1.0-u1.29-230214-2.6 (utf8.euc) (TeX Live 2023) (preloaded format=platex 2023.7.25)  27 JUL 2023 18:57
+This is e-upTeX, Version 3.141592653-p4.1.0-u1.29-230214-2.6 (utf8.euc) (TeX Live 2023) (preloaded format=platex 2023.7.25)  28 JUL 2023 15:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -412,8 +412,8 @@ Overfull \hbox (36.94159pt too wide) in paragraph at lines 63--64
  [][] 
  []
 
-File: fig/texture.001.jpeg Graphic file (type bmp)
-<fig/texture.001.jpeg>
+File: fig/texture.jpeg Graphic file (type bmp)
+<fig/texture.jpeg>
 
 Overfull \hbox (13.46664pt too wide) in paragraph at lines 73--74
  [][] 
@@ -423,11 +423,16 @@ Overfull \hbox (13.46664pt too wide) in paragraph at lines 73--74
 
 
 ]
+File: fig/proto.jpeg Graphic file (type bmp)
+<fig/proto.jpeg>
+
+Overfull \hbox (13.46664pt too wide) in paragraph at lines 87--88
+ [][] 
+ []
+
 File: fig/koukaton.jpg Graphic file (type bmp)
 <fig/koukaton.jpg>
-File: fig/koukaton.jpg Graphic file (type bmp)
-<fig/koukaton.jpg>
- (latex_out/sample.bbl) [2] (latex_out/sample.aux)
+(latex_out/sample.bbl) [2] (latex_out/sample.aux)
  ***********
 pLaTeX2e <2023-02-14>+1, based on
 LaTeX2e <2023-06-01> patch level 1
@@ -437,12 +442,12 @@ Package rerunfilecheck Info: File `sample.out' has not changed.
 (rerunfilecheck)             Checksum: 3EE505D6373EFBDDBDB8EF02AF83D9A2;784.
  ) 
 Here is how much of TeX's memory you used:
- 10708 strings out of 475892
- 161234 string characters out of 5779632
+ 10714 strings out of 475892
+ 161326 string characters out of 5779632
  1924080 words of memory out of 5000000
- 31812 multiletter control sequences out of 15000+600000
+ 31817 multiletter control sequences out of 15000+600000
  598190 words of font info for 83 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
  87i,8n,93p,339b,519s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on latex_out/sample.dvi (2 pages, 14768 bytes).
+Output written on latex_out/sample.dvi (2 pages, 14976 bytes).
