@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.141592653-p4.1.0-u1.29-230214-2.6 (utf8.euc) (TeX Live 2023) (preloaded format=platex 2023.7.25)  28 JUL 2023 17:21
+This is e-upTeX, Version 3.141592653-p4.1.0-u1.29-230214-2.6 (utf8.euc) (TeX Live 2023) (preloaded format=platex 2023.7.25)  2 AUG 2023 19:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -402,20 +402,20 @@ LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
 (Font)              scaled to size 13.83836pt on input line 22.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 55.
+(Font)              scaled to size 11.53198pt on input line 59.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 55.
-File: fig/gaiyo.pdf Graphic file (type pdf)
-<fig/gaiyo.pdf>
+(Font)              scaled to size 11.53198pt on input line 59.
+File: fig/gaiyo.001.jpeg Graphic file (type bmp)
+<fig/gaiyo.001.jpeg>
 
-Overfull \hbox (36.94159pt too wide) in paragraph at lines 63--64
+Overfull \hbox (36.94159pt too wide) in paragraph at lines 67--68
  [][] 
  []
 
-File: fig/texture.jpeg Graphic file (type bmp)
-<fig/texture.jpeg>
+File: fig/proto.001.jpeg Graphic file (type bmp)
+<fig/proto.001.jpeg>
 
-Overfull \hbox (13.46664pt too wide) in paragraph at lines 73--74
+Overfull \hbox (13.46664pt too wide) in paragraph at lines 82--83
  [][] 
  []
 
@@ -423,36 +423,24 @@ Overfull \hbox (13.46664pt too wide) in paragraph at lines 73--74
 
 
 ]
-File: fig/proto.jpeg Graphic file (type bmp)
-<fig/proto.jpeg>
-
-Overfull \hbox (13.46664pt too wide) in paragraph at lines 87--88
- [][] 
- []
-
 File: fig/enviroment.jpeg Graphic file (type bmp)
 <fig/enviroment.jpeg>
-
-Overfull \hbox (13.46664pt too wide) in paragraph at lines 110--111
- [][] 
- []
-
-(latex_out/sample.bbl) [2] (latex_out/sample.aux)
+ (latex_out/sample.bbl) [2] (latex_out/sample.aux)
  ***********
 pLaTeX2e <2023-02-14>+1, based on
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-06-30>
  ***********
 Package rerunfilecheck Info: File `sample.out' has not changed.
-(rerunfilecheck)             Checksum: 3EE505D6373EFBDDBDB8EF02AF83D9A2;784.
+(rerunfilecheck)             Checksum: D8EAF9FE4919EA5019DE80FB22444910;949.
  ) 
 Here is how much of TeX's memory you used:
- 10713 strings out of 475892
- 161338 string characters out of 5779632
+ 10709 strings out of 475892
+ 161332 string characters out of 5779632
  1924080 words of memory out of 5000000
- 31817 multiletter control sequences out of 15000+600000
- 598190 words of font info for 83 fonts, out of 8000000 for 9000
+ 31814 multiletter control sequences out of 15000+600000
+ 598525 words of font info for 84 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
  87i,8n,93p,339b,519s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on latex_out/sample.dvi (2 pages, 15060 bytes).
+Output written on latex_out/sample.dvi (2 pages, 15268 bytes).

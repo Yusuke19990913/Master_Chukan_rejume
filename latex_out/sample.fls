@@ -174,23 +174,20 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmss12.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/ptex-fonts/standard/tgoth10.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/ptex-fonts/jis/jisg.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmss12.tfm
-INPUT ./fig/gaiyo.pdf
-INPUT ./fig/gaiyo.pdf
-INPUT ./fig/gaiyo.pdf
-INPUT extractbb -B cropbox -O fig/gaiyo.pdf
-INPUT ./fig/texture.jpeg
-INPUT ./fig/texture.jpeg
-INPUT ./fig/texture.jpeg
-INPUT extractbb -B cropbox -O fig/texture.jpeg
+INPUT ./fig/gaiyo.001.jpeg
+INPUT ./fig/gaiyo.001.jpeg
+INPUT ./fig/gaiyo.001.jpeg
+INPUT extractbb -B cropbox -O fig/gaiyo.001.jpeg
+INPUT ./fig/proto.001.jpeg
+INPUT ./fig/proto.001.jpeg
+INPUT ./fig/proto.001.jpeg
+INPUT extractbb -B cropbox -O fig/proto.001.jpeg
 OUTPUT latex_out/sample.dvi
-INPUT ./fig/proto.jpeg
-INPUT ./fig/proto.jpeg
-INPUT ./fig/proto.jpeg
-INPUT extractbb -B cropbox -O fig/proto.jpeg
 INPUT ./fig/enviroment.jpeg
 INPUT ./fig/enviroment.jpeg
 INPUT ./fig/enviroment.jpeg
 INPUT extractbb -B cropbox -O fig/enviroment.jpeg
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm
 INPUT latex_out/sample.bbl
 INPUT latex_out/sample.bbl
 INPUT latex_out/sample.bbl

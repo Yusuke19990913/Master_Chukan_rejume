@@ -1,20 +1,21 @@
 # Fdb version 4
-["bibtex latex_out/sample"] 1690525536 "latex_out/sample.aux" "latex_out/sample.bbl" "latex_out/sample" 1690532468 0
-  "./ref.bib" 1690446921 1458 cfc174a46153e7e8b3803d6019de187f ""
+["bibtex latex_out/sample"] 1690965057 "latex_out/sample.aux" "latex_out/sample.bbl" "latex_out/sample" 1690971361 0
+  "./ref.bib" 1690959080 1761 d8a206e30c877cd5c6d33764a0a99aae ""
   "junsrt.bst" 0 -1 0 ""
-  "latex_out/sample.aux" 1690532468 2398 cddfecf824c20defe3faa6b6f65ed526 "latex"
+  "latex_out/sample.aux" 1690971360 2362 c03bc790427f66f48bd3f50186a1371c "latex"
   (generated)
   "latex_out/sample.bbl"
   "latex_out/sample.blg"
   (rewritten before read)
-["dvipdf"] 1690532468 "latex_out/sample.dvi" "latex_out/sample.pdf" "latex_out/sample" 1690532468 0
-  "latex_out/sample.dvi" 1690532468 15060 8749fb6c861e7e2d7812072aae58145a "latex"
+["dvipdf"] 1690971361 "latex_out/sample.dvi" "latex_out/sample.pdf" "latex_out/sample" 1690971361 0
+  "latex_out/sample.dvi" 1690971360 15268 d0c6bc7325cba8942d7b6c73e2caadb7 "latex"
   (generated)
   "latex_out/sample.pdf"
   (rewritten before read)
-["latex"] 1690532467 "/Users/inouelab/Desktop/resume-utf8-mac/sample.tex" "latex_out/sample.dvi" "sample" 1690532468 0
-  "/Users/inouelab/Desktop/resume-utf8-mac/sample.tex" 1690532466 8082 75b252182b53e162acab70445a2cd360 ""
+["latex"] 1690971360 "/Users/inouelab/Desktop/resume-utf8-mac/sample.tex" "latex_out/sample.dvi" "sample" 1690971361 0
+  "/Users/inouelab/Desktop/resume-utf8-mac/sample.tex" 1690971360 8163 1a47b84f529a48370ce51273e0d719b8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/ptex-fonts/jis/jis.tfm" 1463434352 468 53f854284f6afa6c36aaa2d1090ecc12 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/ptex-fonts/jis/jisg.tfm" 1463434352 468 53f854284f6afa6c36aaa2d1090ecc12 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/ptex-fonts/standard/tgoth10.tfm" 1463434352 856 7404843a5f798859944d7973a47821d5 ""
@@ -90,15 +91,14 @@
   "/usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf" 1681165822 40967 d940221f8762fd5848760382d97d1226 ""
   "/usr/local/texlive/2023/texmf-var/web2c/euptex/platex.fmt" 1690263477 8105917 213a426dd88f63785471e2b7ef9fd961 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "fig/enviroment.jpeg" 1690528877 1535163 2e1946479ceed6de40492ef2b759a6f5 ""
-  "fig/gaiyo.pdf" 1690439938 103799 60c220f308b192e17a2868f2010a6d01 ""
-  "fig/proto.jpeg" 1690525646 1146797 5cd7f6ef895342d3e221c573e43ea15b ""
-  "fig/texture.jpeg" 1690524800 1438742 29b26acc73cc3c628ba8d86968f22b70 ""
-  "latex_out/sample.aux" 1690532468 2398 cddfecf824c20defe3faa6b6f65ed526 "latex"
-  "latex_out/sample.bbl" 1690525537 538 ed94f0b3239b8b1bc77831b7f1f47215 "bibtex latex_out/sample"
-  "latex_out/sample.out" 1690532468 784 3ee505d6373efbddbdb8ef02af83d9a2 "latex"
+  "fig/enviroment.jpeg" 1690964124 692806 c35773cf62df7e397c20c668515c5cfa ""
+  "fig/gaiyo.001.jpeg" 1690971335 301894 d077dac834e94adf3de2a00d80419bce ""
+  "fig/proto.001.jpeg" 1690965462 1153306 5fd06b219a9930fa90a861de0a5a09d4 ""
+  "latex_out/sample.aux" 1690971360 2362 c03bc790427f66f48bd3f50186a1371c "latex"
+  "latex_out/sample.bbl" 1690965057 609 620a3ddee7f590cae887912f4a2d25f1 "bibtex latex_out/sample"
+  "latex_out/sample.out" 1690971360 949 d8eaf9fe4919ea5019de80fb22444910 "latex"
   "resume.sty" 1686647145 3172 6f4b080b9fad56e4c378bf5571dc7015 ""
-  "sample.tex" 1690532466 8082 75b252182b53e162acab70445a2cd360 ""
+  "sample.tex" 1690971360 8163 1a47b84f529a48370ce51273e0d719b8 ""
   "udline.sty" 1686561083 26035 8f19a931efcf8cc0870491ace38d48fb ""
   (generated)
   "latex_out/sample.aux"
