@@ -1,19 +1,19 @@
 # Fdb version 4
-["bibtex latex_out/sample"] 1690965057 "latex_out/sample.aux" "latex_out/sample.bbl" "latex_out/sample" 1690971361 0
+["bibtex latex_out/sample"] 1690965057 "latex_out/sample.aux" "latex_out/sample.bbl" "latex_out/sample" 1691046851 0
   "./ref.bib" 1690959080 1761 d8a206e30c877cd5c6d33764a0a99aae ""
   "junsrt.bst" 0 -1 0 ""
-  "latex_out/sample.aux" 1690971360 2362 c03bc790427f66f48bd3f50186a1371c "latex"
+  "latex_out/sample.aux" 1691046850 2362 c03bc790427f66f48bd3f50186a1371c "latex"
   (generated)
   "latex_out/sample.bbl"
   "latex_out/sample.blg"
   (rewritten before read)
-["dvipdf"] 1690971361 "latex_out/sample.dvi" "latex_out/sample.pdf" "latex_out/sample" 1690971361 0
-  "latex_out/sample.dvi" 1690971360 15268 d0c6bc7325cba8942d7b6c73e2caadb7 "latex"
+["dvipdf"] 1691046850 "latex_out/sample.dvi" "latex_out/sample.pdf" "latex_out/sample" 1691046851 0
+  "latex_out/sample.dvi" 1691046850 15420 e60253030c7d261684dfa3b2d207fd62 "latex"
   (generated)
   "latex_out/sample.pdf"
   (rewritten before read)
-["latex"] 1690971360 "/Users/inouelab/Desktop/resume-utf8-mac/sample.tex" "latex_out/sample.dvi" "sample" 1690971361 0
-  "/Users/inouelab/Desktop/resume-utf8-mac/sample.tex" 1690971360 8163 1a47b84f529a48370ce51273e0d719b8 ""
+["latex"] 1691046849 "/Users/inouelab/Desktop/resume-utf8-mac/sample.tex" "latex_out/sample.dvi" "sample" 1691046851 0
+  "/Users/inouelab/Desktop/resume-utf8-mac/sample.tex" 1691046849 8265 450c611d15a40fbc415088428d2042ca ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/ptex-fonts/jis/jis.tfm" 1463434352 468 53f854284f6afa6c36aaa2d1090ecc12 ""
@@ -93,12 +93,12 @@
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
   "fig/enviroment.jpeg" 1690964124 692806 c35773cf62df7e397c20c668515c5cfa ""
   "fig/gaiyo.001.jpeg" 1690971335 301894 d077dac834e94adf3de2a00d80419bce ""
-  "fig/proto.001.jpeg" 1690965462 1153306 5fd06b219a9930fa90a861de0a5a09d4 ""
-  "latex_out/sample.aux" 1690971360 2362 c03bc790427f66f48bd3f50186a1371c "latex"
+  "fig/proto.001.jpeg" 1691045356 1107517 91e31fe5144f9a838ec1a369287f55b1 ""
+  "latex_out/sample.aux" 1691046850 2362 c03bc790427f66f48bd3f50186a1371c "latex"
   "latex_out/sample.bbl" 1690965057 609 620a3ddee7f590cae887912f4a2d25f1 "bibtex latex_out/sample"
-  "latex_out/sample.out" 1690971360 949 d8eaf9fe4919ea5019de80fb22444910 "latex"
+  "latex_out/sample.out" 1691046850 949 d8eaf9fe4919ea5019de80fb22444910 "latex"
   "resume.sty" 1686647145 3172 6f4b080b9fad56e4c378bf5571dc7015 ""
-  "sample.tex" 1690971360 8163 1a47b84f529a48370ce51273e0d719b8 ""
+  "sample.tex" 1691046849 8265 450c611d15a40fbc415088428d2042ca ""
   "udline.sty" 1686561083 26035 8f19a931efcf8cc0870491ace38d48fb ""
   (generated)
   "latex_out/sample.aux"
